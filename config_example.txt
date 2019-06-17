@@ -1,0 +1,5 @@
+REPOPATH='/home/user/folder-path'
+GIT_PATH_PREFIX='https://github.com/username/'
+USER='gitHub username'
+PASS='gitHub pass'
+TOKEN='gitHub API token'
